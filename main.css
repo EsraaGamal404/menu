@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-y: hidden;
+}
+.content{
+    background-color: rgb(80, 152, 247);
+    height: 99vh;
+}
+.container{
+    background-color: rgb(80, 152, 247);
+    height: 95vh;
+    width: 120vh;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: auto;
+}
+.detalis{
+    height: 95vh;
+    width: 120vh;
+padding: 30px;
+margin: 10px;
+}
+span{
+    display: block;
+    color: #fff;
+}
+h3{
+    position: relative;
+    left: 40vh;
+    bottom: 7vh;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 900;
+}
+.fa-brands{
+    color: #fff;
+    position: relative;
+    left: 80vh;
+    bottom: 13vh;
+}
+.hr1{
+    position: relative;
+    bottom: 11vh;
+}
+ul li{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+}
+ul li a{
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    bottom: 10vh;
+}
+ul li a:hover{
+    color: rgb(255, 174, 0);
+}
+.hr2{
+    position: relative;
+    bottom: 9vh;
+}
+h1{
+    color: #fff;
+    position: relative;
+    left: 26vh;
+    font-size: 40px;
+}
+p{
+    color: #fff;
+    position: relative;
+    left: 20vh;
+    bottom: 2vh;
+    font-weight: 500;
+}
+button{
+    color: #000;
+    padding: 15px;
+    background-color: rgb(255, 174, 0);
+    border: solid 1px rgb(255, 174, 0);
+    border-radius: 4px;
+    font-weight: 900;
+    position: relative;
+    left: 45vh; bottom:19vh ;
+}
+.img1{
+    border-radius: 200px;
+    position: relative;
+    left: 19vh;
+    top: 16vh;
+}
+.img3{
+    position: relative;
+     bottom: 12vh;
+    border-radius: 200px;
+}
+.img2{
+    border-radius: 200px;
+position: relative;
+left: 20vh; top: 16vh;
+}
+
